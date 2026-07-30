@@ -2,15 +2,15 @@
 
   # 🎮 Delta-Prod
 
-  ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.x%20--%201.21.x-green?style=for-the-badge&logo=minecraft)
-  ![Server Core](https://img.shields.io/badge/Server-Paper%20%2F%20Purpur-orange?style=for-the-badge)
+  ![Minecraft Version](https://img.shields.io/badge/Minecraft-26.2%20--%201.21.x-green?style=for-the-badge&logo=minecraft)
+  ![Server Core](https://img.shields.io/badge/Server-Paper%20%2F%20Velocity-orange?style=for-the-badge)
   ![Build Tool](https://img.shields.io/badge/Build-Maven-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📦 Плъгини и репозитория
+## 📦 Плъгини и репозитории
 
 | Хранилище / Плъгин | Описание | Версия | От |
 | :--- | :--- | :---: | :---: |
@@ -19,7 +19,6 @@
 | [**`DeltaAFK`**](https://github.com/Delta-Prod/DeltaAFK) | Система за AFK статус, зони за почивка и награди. | `v1.0.0` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaScheduler`**](https://github.com/Delta-Prod/DeltaScheduler) | Планиране и автоматизация на периодични задачи и ивенти в сървъра. | `v1.0.0` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`CoreProtect`**](https://github.com/Delta-Prod/CoreProtect) | Система за логове, защита на блокове и проследяване на действия. | `v1.0.0` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`.github`**](https://github.com/Delta-Prod/.github) | Профил на организацията, документация и шаблони за екипа. | `v1.0.0` | [@Alexxxander0](https://github.com/Alexxxander0) |
 
 ---
 
