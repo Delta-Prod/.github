@@ -12,13 +12,13 @@
 
 ## 📦 Плъгини и репозитории
 
-| Хранилище / Плъгин | Описание | Версия | От |
+| Хранилище / Плъгин | Описание | Версия (MC) | От |
 | :--- | :--- | :---: | :---: |
-| [**`DeltaJobs`**](https://github.com/Delta-Prod/DeltaJobs) | Система за професии, работа и икономическо развитие на играчите. | `v1.0.0` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaAuctionHouse`**](https://github.com/Delta-Prod/DeltaAuctionHouse) | Аукционна къща за търговия с предмети между играчите. | `v1.0.0` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaAFK`**](https://github.com/Delta-Prod/DeltaAFK) | Система за AFK статус, зони за почивка и награди. | `v1.0.0` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaScheduler`**](https://github.com/Delta-Prod/DeltaScheduler) | Планиране и автоматизация на периодични задачи и ивенти в сървъра. | `v1.0.0` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`CoreProtect`**](https://github.com/Delta-Prod/CoreProtect) | Система за логове, защита на блокове и проследяване на действия. | `v1.0.0` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaJobs`**](https://github.com/Delta-Prod/DeltaJobs) | Система за професии, работа и икономическо развитие на играчите. | `1.21 - 1.21.4` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaAuctionHouse`**](https://github.com/Delta-Prod/DeltaAuctionHouse) | Аукционна къща за търговия с предмети между играчите. | `1.21 - 1.21.4` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaAFK`**](https://github.com/Delta-Prod/DeltaAFK) | Система за AFK статус, зони за почивка и награди. | `1.21 - 1.21.4` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaScheduler`**](https://github.com/Delta-Prod/DeltaScheduler) | Планиране и автоматизация на периодични задачи и ивенти в сървъра. | `1.21 - 1.21.4` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`CoreProtect`**](https://github.com/Delta-Prod/CoreProtect) | Система за логове, защита на блокове и проследяване на действия. | `1.16 - 1.21.x` | [@Alexxxander0](https://github.com/Alexxxander0) |
 
 ---
 
