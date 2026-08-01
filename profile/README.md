@@ -10,23 +10,23 @@
 
 ---
 
-## 📦 Плъгини и репозитории
+## 📦 Plugins & Repositories
 
-| Хранилище / Плъгин | Описание | Платформа | От |
+| Repository / Plugin | Description | Platform | Maintained By |
 | :--- | :--- | :---: | :---: |
-| [**`DeltaCore`**](https://github.com/Delta-Prod/DeltaCore) | Основен плъгин за Staff/Admin/Media чатове, управление на игралния чат и freeze системи. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaPack`**](https://github.com/Delta-Prod/DeltaPack) | Управление и изпращане на сървърен Resource Pack на Velocity прокси сървъра. | `Velocity` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaJobs`**](https://github.com/Delta-Prod/DeltaJobs) | Система за професии, работа и икономическо развитие на играчите. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaAuctionHouse`**](https://github.com/Delta-Prod/DeltaAuctionHouse) | Аукционна къща за търговия с предмети между играчите. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaAFK`**](https://github.com/Delta-Prod/DeltaAFK) | Система за AFK статус, зони за почивка и награди. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaScheduler`**](https://github.com/Delta-Prod/DeltaScheduler) | Планиране и автоматизация на периодични задачи и ивенти в сървъра. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`CoreProtect`**](https://github.com/Delta-Prod/CoreProtect) | Система за логове, защита на блокове и проследяване на действия. | `Paper / Spigot` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaCore`**](https://github.com/Delta-Prod/DeltaCore) | Core plugin for Staff/Admin/Media channels, player chat management, and freeze systems. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaPack`**](https://github.com/Delta-Prod/DeltaPack) | Velocity proxy plugin for managing and delivering server resource packs. | `Velocity` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaJobs`**](https://github.com/Delta-Prod/DeltaJobs) | Jobs, economy, and player progression framework. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaAuctionHouse`**](https://github.com/Delta-Prod/DeltaAuctionHouse) | Player-to-player auction house trading system. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaAFK`**](https://github.com/Delta-Prod/DeltaAFK) | AFK status detection, lounge zones, and reward distribution. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaScheduler`**](https://github.com/Delta-Prod/DeltaScheduler) | Automation and task scheduling for server events and automated jobs. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`CoreProtect`**](https://github.com/Delta-Prod/CoreProtect) | Block logging, anti-griefing, and action auditing tool. | `Paper / Spigot` | [@Alexxxander0](https://github.com/Alexxxander0) |
 
 ---
 
-## 👥 Екип
+## 👥 Team
 
-| Аватар | Член | Роля | GitHub |
+| Avatar | Member | Role | GitHub |
 | :---: | :--- | :--- | :---: |
 | <img src="https://github.com/Alexxxander0.png" width="45" style="border-radius: 50%;"> | **Alexxx_ander** | Lead Developer & Owner | [@Alexxxander0](https://github.com/Alexxxander0) |
 | <img src="https://github.com/Hqkumaru.png" width="45" style="border-radius: 50%;"> | **Hqkumaru** | Developer | [@Hqkumaru](https://github.com/Hqkumaru) |
@@ -34,19 +34,19 @@
 
 ---
 
-## ⚡ При промяна на даден плъгин:
+## ⚡ Workflow & Development Instructions:
 
-1. **Клониране на репозиторито:**
+1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Delta-Prod/<ИмеНаРепозиторито>
+   git clone https://github.com/Delta-Prod/<RepositoryName>
    ```
 
-2. **Направете необходимите промени локално.**
+2. **Apply necessary code changes locally.**
 
-3. **Сглобяване на .jar файла:**
+3. **Build the `.jar` artifact:**
    ```bash
    mvn clean package
    ```
 
-4. **Пуш на промените и нов Release:**
-   Качете променените файлове с описание на направената промяна. Създайте нов release в GitHub, който съдържа поне компилирания `.jar` файл и описание на новите функционалности или поправки.
+4. **Push changes & create a Release:**
+   Commit and push your changes with clear English commit messages. Create a new GitHub Release containing the compiled `.jar` artifact and release notes.
