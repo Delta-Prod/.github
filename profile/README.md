@@ -14,6 +14,8 @@
 
 | Хранилище / Плъгин | Описание | Платформа | От |
 | :--- | :--- | :---: | :---: |
+| [**`DeltaCore`**](https://github.com/Delta-Prod/DeltaCore) | Основен плъгин за Staff/Admin/Media чатове, управление на игралния чат и freeze системи. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaPack`**](https://github.com/Delta-Prod/DeltaPack) | Управление и изпращане на сървърен Resource Pack на Velocity прокси сървъра. | `Velocity` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaJobs`**](https://github.com/Delta-Prod/DeltaJobs) | Система за професии, работа и икономическо развитие на играчите. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaAuctionHouse`**](https://github.com/Delta-Prod/DeltaAuctionHouse) | Аукционна къща за търговия с предмети между играчите. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaAFK`**](https://github.com/Delta-Prod/DeltaAFK) | Система за AFK статус, зони за почивка и награди. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
@@ -36,7 +38,7 @@
 
 1. **Клониране на репозиторито:**
    ```bash
-   git clone https://github.com/Delta-Prod/DeltaAFK
+   git clone https://github.com/Delta-Prod/<ИмеНаРепозиторито>
    ```
 
 2. **Направете необходимите промени локално.**
