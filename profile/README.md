@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🎮 Delta-Prod
+  # 🎮 Alexander's Space
 
   ![Minecraft Version](https://img.shields.io/badge/Minecraft-26.2%20--%201.21.x-green?style=for-the-badge&logo=minecraft)
   ![Server Core](https://img.shields.io/badge/Server-Paper%20%2F%20Velocity-orange?style=for-the-badge)
@@ -10,9 +10,9 @@
 
 ---
 
-## 📦 Plugins & Repositories
+## 📦 Plugins
 
-| Repository / Plugin | Description | Platform | Maintained By |
+| Plugin | Description | Platform | Maintained By |
 | :--- | :--- | :---: | :---: |
 | [**`DeltaCore`**](https://github.com/Delta-Prod/DeltaCore) | Core plugin for Staff/Admin/Media channels, dual Discord bridge, dynamic emojis, and mentions. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaPack`**](https://github.com/Delta-Prod/DeltaPack) | Velocity proxy resource pack merger, internal HTTP web server, and Geyser integration. | `Velocity` | [@Alexxxander0](https://github.com/Alexxxander0) |
@@ -26,14 +26,6 @@
 | [**`DeltaEvents`**](https://github.com/Delta-Prod/DeltaEvents) | Competitive multiplayer mini-games manager (Sumo, KOTH, MrBeast, FiveM). | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`XaeroDisabler`**](https://github.com/Delta-Prod/XaeroDisabler) | Security plugin to disable unauthorized radar and cave mapping in client mods. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaParcel`**](https://github.com/Delta-Prod/DeltaParcel) | Enterprise land claiming, parcel management, and plot protection system. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-
----
-
-## 👥 Team
-
-| Avatar | Member | Role | GitHub |
-| :---: | :--- | :--- | :---: |
-| <img src="https://github.com/Alexxxander0.png" width="45" style="border-radius: 50%;"> | **Alexxx_ander** | Founder | [@Alexxxander0](https://github.com/Alexxxander0) |
 
 ---
 
