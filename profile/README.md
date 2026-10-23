@@ -33,9 +33,7 @@
 
 | Avatar | Member | Role | GitHub |
 | :---: | :--- | :--- | :---: |
-| <img src="https://github.com/Alexxxander0.png" width="45" style="border-radius: 50%;"> | **Alexxx_ander** | Lead Developer & Owner | [@Alexxxander0](https://github.com/Alexxxander0) |
-| <img src="https://github.com/Hqkumaru.png" width="45" style="border-radius: 50%;"> | **Hqkumaru** | Developer | [@Hqkumaru](https://github.com/Hqkumaru) |
-| <img src="https://github.com/duchekuche-dotcom.png" width="45" style="border-radius: 50%;"> | **Duchekuche20121** | Team Member | [@duchekuche-dotcom](https://github.com/duchekuche-dotcom) |
+| <img src="https://github.com/Alexxxander0.png" width="45" style="border-radius: 50%;"> | **Alexxx_ander** | Founder | [@Alexxxander0](https://github.com/Alexxxander0) |
 
 ---
 
