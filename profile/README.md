@@ -14,13 +14,18 @@
 
 | Repository / Plugin | Description | Platform | Maintained By |
 | :--- | :--- | :---: | :---: |
-| [**`DeltaCore`**](https://github.com/Delta-Prod/DeltaCore) | Core plugin for Staff/Admin/Media channels, player chat management, and freeze systems. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaPack`**](https://github.com/Delta-Prod/DeltaPack) | Velocity proxy plugin for managing and delivering server resource packs. | `Velocity` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaJobs`**](https://github.com/Delta-Prod/DeltaJobs) | Jobs, economy, and player progression framework. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaAuctionHouse`**](https://github.com/Delta-Prod/DeltaAuctionHouse) | Player-to-player auction house trading system. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaAFK`**](https://github.com/Delta-Prod/DeltaAFK) | AFK status detection, lounge zones, and reward distribution. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaScheduler`**](https://github.com/Delta-Prod/DeltaScheduler) | Automation and task scheduling for server events and automated jobs. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`CoreProtect`**](https://github.com/Delta-Prod/CoreProtect) | Block logging, anti-griefing, and action auditing tool. | `Paper / Spigot` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaCore`**](https://github.com/Delta-Prod/DeltaCore) | Core plugin for Staff/Admin/Media channels, dual Discord bridge, dynamic emojis, and mentions. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaPack`**](https://github.com/Delta-Prod/DeltaPack) | Velocity proxy resource pack merger, internal HTTP web server, and Geyser integration. | `Velocity` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaJobs`**](https://github.com/Delta-Prod/DeltaJobs) | Jobs, economy, and player progression framework with anti-abuse protection. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaAuctionHouse`**](https://github.com/Delta-Prod/DeltaAuctionHouse) | High-performance player-to-player auction house with Shulker preview and claim box. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaAFK`**](https://github.com/Delta-Prod/DeltaAFK) | Automated AFK arena management, time-based rewards, and particle boundary outlines. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaScheduler`**](https://github.com/Delta-Prod/DeltaScheduler) | Multilingual automated task scheduling with PlaceholderAPI cache and 21 languages. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`CoreProtect`**](https://github.com/Delta-Prod/CoreProtect) | Custom 26.2 build of block logging and anti-griefing tool with TabCompletion QoL fixes. | `Paper / Spigot` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaAntiVPN`**](https://github.com/Delta-Prod/DeltaAntiVPN) | Real-time Anti-VPN, proxy detection, and ASN verification with dual-layer caching. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaIslands`**](https://github.com/Delta-Prod/DeltaIslands) | Island management, custom schematics, grid generation, upgrades, and member roles. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaEvents`**](https://github.com/Delta-Prod/DeltaEvents) | Competitive multiplayer mini-games manager (Sumo, KOTH, MrBeast, FiveM). | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`XaeroDisabler`**](https://github.com/Delta-Prod/XaeroDisabler) | Security plugin to disable unauthorized radar and cave mapping in client mods. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`DeltaParcel`**](https://github.com/Delta-Prod/DeltaParcel) | Enterprise land claiming, parcel management, and plot protection system. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 
 ---
 
@@ -49,4 +54,4 @@
    ```
 
 4. **Push changes & create a Release:**
-   Commit and push your changes with clear English commit messages. Create a new GitHub Release containing the compiled `.jar` artifact and release notes.
+   Commit and push your changes with clear English commit messages. Create a new GitHub Release containing the compiled `.jar` artifact and release notes following the organization release standard.
